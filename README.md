@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aatif Raza</p>
+<p align="left">Myself Aatif Raza</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Contact  me</p>
+<p align="left">Connect With Me</p>
 
 ###
 
@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aatifraza123/Aatifraza123/output/snake.svg" alt="Snake animation" />
+
 
 ###
