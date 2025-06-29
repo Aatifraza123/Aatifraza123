@@ -1,6 +1,6 @@
 <h1 align="left">Hey There...😎</h1>
 
-<p align="left">I'm <strong>Aatif Raza</strong>, a passionate developer and curious learner.</p>
+<p align="left">I'm <strong style="color: red; font-size: 20px;">Aatif Raza</strong>, a passionate developer and curious learner.</p>
 
 ---
 
@@ -37,7 +37,7 @@
 <h2 align="left">📫 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aatifraza" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aatif-raza-8ab2aa241" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" /></a>
   <a href="https://twitter.com/aatifraza123" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" /></a>
   <a href="https://instagram.com/beingaatif__20" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" /></a>
   <a href="https://facebook.com/aatifraza123" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Facebook" /></a>
