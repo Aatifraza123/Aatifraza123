@@ -1,6 +1,6 @@
 <h1 align="left">Hey There...😎</h1>
 
-<p align="left">I'm <strong style="color: red; font-size: 20px;">Aatif Raza</strong>, a passionate developer and curious learner.</p>
+<p align="left">I'm <strong style="color: red;">Aatif Raza</strong>, a passionate developer and curious learner.</p>
 
 ---
 
