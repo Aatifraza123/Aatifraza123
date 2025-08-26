@@ -4,18 +4,18 @@
 
 ---
 
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">About Me</h2>
 
 <ul align="left">
-  <li>✨ Creating bugs since 2024 (and fixing a few!)</li>
-  <li>📚 Currently diving deep into <strong>Machine Learning</strong></li>
-  <li>🎯 Goal: To solve real-world problems using code</li>
-  <li>🎲 Fun Fact: I'm a "Senior Developer"... in my own mind 😉</li>
+  <li>Creating bugs since 2024 (and fixing a few!)</li>
+  <li>Currently diving deep into <strong>Machine Learning</strong></li>
+  <li>Goal: To solve real-world problems using code</li>
+  <li>Fun Fact: I'm a "Senior Developer"... in my own mind 😉</li>
 </ul>
 
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="left">📫 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aatif-raza-8ab2aa241" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" /></a>
@@ -46,7 +46,7 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aatifraza123&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="left">🔥 Contribution Streak</h2>
+<h2 align="left">Contribution Streak</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatifraza123&theme=dracula&hide_border=false" height="200" alt="Contribution Streak" />
@@ -63,7 +63,7 @@
 
 ---
 
-<h2 align="left">📈 GitHub Activity Graph</h2>
+<h2 align="left">GitHub Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatifraza123&theme=dracula&hide_border=false&area=true" height="300" alt="GitHub Activity Graph" />
