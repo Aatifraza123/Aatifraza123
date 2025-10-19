@@ -1,94 +1,110 @@
-<h1 align="left">Hey there 👋</h1>
+<!-- ==================== HEADER ==================== -->
+<h1 align="center">Hey there, I'm <span style="color:#E63946;">Aatif Raza</span> 👋</h1>
 
-<p align="left">
-  I'm <strong style="color: #E63946;">Aatif Raza</strong> — a passionate developer and lifelong learner who loves turning ideas into code.
+<h3 align="center">🚀 Developer | 🧠 Machine Learning Enthusiast | 💻 Problem Solver</h3>
+
+<p align="center">
+  <em>"Turning caffeine into clean code (most days 😅)"</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aatifraza123&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aatifraza123?label=Followers&style=flat&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Aatifraza123?label=Stars&style=flat&color=yellow" alt="Stars" />
 </p>
 
 ---
 
-<h2 align="left">💡 About Me</h2>
+<!-- ==================== ABOUT SECTION ==================== -->
+### 🧩 About Me
 
-<ul align="left">
-  <li>🚀 Started my coding journey in 2024 — creating bugs and learning from them ever since.</li>
-  <li>🤖 Currently exploring the world of <strong>Machine Learning</strong> and AI-driven applications.</li>
-  <li>🎯 Goal: To build scalable, impactful solutions that solve real-world problems.</li>
-  <li>😄 Fun Fact: I’m a “Senior Developer”... in my own debug sessions 😉</li>
-</ul>
-
----
-
-<h2 align="left">🧠 Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-</div>
+- 👨‍💻 Creating bugs since **2024** (and fixing a few along the way)  
+- 🤖 Diving deep into **Machine Learning & AI Applications**  
+- 💡 Passionate about **building scalable, real-world solutions**  
+- 🎯 Focused on writing **clean, modular, and efficient code**  
+- 😎 Fun Fact: I debug my code like it owes me money  
 
 ---
 
-<h2 align="left">🌐 Connect With Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aatif-raza-8ab2aa241" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/aatifraza123" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/beingaatif__20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/aatifraza123" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" />
-  </a>
-  <a href="https://wa.me/8804819102" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
+<!-- ==================== TECH STACK ==================== -->
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aatifraza123&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatifraza123&layout=compact&theme=tokyonight&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,cpp,c,html,css,bootstrap,anaconda,git,github,vscode,canva,mongodb,express" />
 </div>
 
 ---
 
-<h2 align="left">🔥 Contribution Streak</h2>
+<!-- ==================== PROJECTS ==================== -->
+### 💼 Featured Projects
+
+| 🚀 Project | 📝 Description | 🧰 Tech Used |
+|-------------|----------------|--------------|
+| 🧠 **ML Predictor** | Built a machine learning model to predict data patterns with high accuracy. | Python, Pandas, Scikit-learn |
+| 💬 **ChatMate AI** | A conversational chatbot using NLP and a React frontend. | React, Node.js, OpenAI API |
+| 🌍 **Portfolio Website** | Personal portfolio with animations and responsive design. | HTML, CSS, JS |
+| ⚙️ **TaskFlow** | Task automation and productivity tracker. | Node.js, Express, MongoDB |
+
+---
+
+<!-- ==================== ACHIEVEMENTS ==================== -->
+### 🏆 Achievements
+
+- 🥇 Completed multiple **end-to-end projects** in Python & JavaScript  
+- 🌱 Currently learning **Deep Learning** and **Model Deployment**  
+- 🧠 Active contributor to open-source & coding communities  
+- 💬 Passionate about sharing knowledge through content & projects  
+
+---
+
+<!-- ==================== CONNECT SECTION ==================== -->
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatifraza123&theme=tokyonight" height="200" alt="Contribution Streak" />
+  <a href="https://www.linkedin.com/in/aatif-raza-8ab2aa241" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="https://twitter.com/aatifraza123" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
+  <a href="https://instagram.com/beingaatif__20" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
+  <a href="https://facebook.com/aatifraza123" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="45" /></a>
+  <a href="https://wa.me/8804819102" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="45" /></a>
 </p>
 
 ---
 
-<h2 align="left">📈 GitHub Activity Graph</h2>
+<!-- ==================== GITHUB STATS ==================== -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aatifraza123&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatifraza123&layout=compact&theme=tokyonight&langs_count=6" height="160" />
+</div>
+
+---
+
+<!-- ==================== STREAK & GRAPH ==================== -->
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatifraza123&theme=tokyo-night&area=true" height="300" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatifraza123&theme=tokyonight" height="200" />
 </p>
 
 ---
 
-<h2 align="left">⚡ Quote That Keeps Me Going</h2>
+### 📈 Activity Graph
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatifraza123&theme=tokyo-night&area=true" height="300" />
+</p>
 
 ---
 
-<h3 align="center">✨ Always Learning | Always Building | Always Curious ✨</h3>
+<!-- ==================== QUOTE ==================== -->
+### ⚡ Quote That Keeps Me Going
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<h3 align="center">✨ Keep Learning | Keep Building | Keep Evolving ✨</h3>
+
 
 
