@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <h1 align="center">Hey there, I'm <span style="color:#E63946;">Aatif Raza</span> 👋</h1>
 
-<h3 align="center">🚀 Developer | 🧠 Machine Learning Enthusiast | 💻 Problem Solver</h3>
+<h3 align="center">Developer | Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <em>"Turning caffeine into clean code (most days 😅)"</em>
@@ -15,17 +15,17 @@
 
 ---
 
-### 🧩 About Me
+### About Me
 
-- 👨‍💻 Creating bugs since **2024** (and fixing a few along the way)  
-- 🤖 Diving deep into **Machine Learning & AI Applications**  
-- 💡 Passionate about **building scalable, real-world solutions**  
-- 🎯 Focused on writing **clean, modular, and efficient code**  
-- 😎 Fun Fact: I debug my code like it owes me money  
+-  Creating bugs since **2024** (and fixing a few along the way)  
+-  Diving deep into **Machine Learning & AI Applications**  
+-  Passionate about **building scalable, real-world solutions**  
+-  Focused on writing **clean, modular, and efficient code**  
+-  Fun Fact: I debug my code like it owes me money  
 
 ---
 
-### 🔭 Currently Working On
+###  Currently Working On
 
 - Developing a **Machine Learning project** for real-time data prediction  
 - Building a **React + Node.js full-stack application** for task management  
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌱 Learning Next
+###  Learning Next
 
 - **Deep Learning** with TensorFlow & PyTorch  
 - **Data Visualization & Analytics** for production-level dashboards  
@@ -41,7 +41,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 💼 Featured Projects
+###  Featured Projects
 
 <p align="center">
   <a href="https://github.com/Aatifraza123/ML-Predictor">
@@ -80,7 +80,7 @@
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Completed_Projects-4-brightgreen?style=for-the-badge" />
@@ -91,7 +91,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aatif-raza-8ab2aa241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -103,7 +103,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aatifraza123&show_icons=true&theme=tokyonight&count_private=true" height="160" />
@@ -112,7 +112,7 @@
 
 ---
 
-### 🔥 Contribution Streak
+###  Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatifraza123&theme=tokyonight" height="200" />
@@ -120,7 +120,7 @@
 
 ---
 
-### 📈 Activity Graph
+###  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatifraza123&theme=tokyo-night&area=true" height="300" />
@@ -128,7 +128,7 @@
 
 ---
 
-### ⚡ Quote That Keeps Me Going
+###  Quote That Keeps Me Going
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
