@@ -1,47 +1,52 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center">Hey there, I'm <span style="color:#E63946;">Aatif Raza</span> 👋</h1>
+<div align="center">
 
-<h3 align="center">Developer | Machine Learning Enthusiast | Problem Solver</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aatif+Raza+%F0%9F%91%8B;Developer+%7C+ML+Enthusiast;Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
 
-<p align="center">
-  <em>"Turning caffeine into clean code (most days 😅)"</em>
+<em>"Turning caffeine into clean code (most days 😅)"</em>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Aatifraza123&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Aatifraza123?label=Followers&style=for-the-badge&color=brightgreen" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Aatifraza123?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Diving deep into **Machine Learning & AI Applications**
+- 🌱 Currently strengthening my **Deep Learning & Cloud Deployment** skills
+- 💡 Passionate about **building scalable, real-world solutions**
+- ✨ Focused on writing **clean, modular, and efficient code**
+- 🐛 Fun Fact: I debug my code like it owes me money
+
+---
+
+## 🚀 Currently Working On
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **ML Predictor** | Real-time data prediction engine | Python, Scikit-learn |
+| 💬 **ChatMate AI** | Conversational AI web app | React, Node.js |
+| 📋 **TaskFlow** | Full-stack task management app | React, Node.js, MongoDB |
+| 🌐 **Open Source** | Contributing to Python & JS repos | Various |
+
+---
+
+## 📚 Learning Next
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow_%7C_PyTorch-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Visualization-Dashboards-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS_%7C_Docker_%7C_Heroku-informational?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aatifraza123&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Aatifraza123?label=Followers&style=flat&color=brightgreen" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Aatifraza123?label=Stars&style=flat&color=yellow" alt="Stars" />
-</p>
-
 ---
 
-### About Me
-
--  Creating bugs since **2024** (and fixing a few along the way)  
--  Diving deep into **Machine Learning & AI Applications**  
--  Passionate about **building scalable, real-world solutions**  
--  Focused on writing **clean, modular, and efficient code**  
--  Fun Fact: I debug my code like it owes me money  
-
----
-
-###  Currently Working On
-
-- Developing a **Machine Learning project** for real-time data prediction  
-- Building a **React + Node.js full-stack application** for task management  
-- Contributing to **open-source repositories** in Python & JS  
-
----
-
-###  Learning Next
-
-- **Deep Learning** with TensorFlow & PyTorch  
-- **Data Visualization & Analytics** for production-level dashboards  
-- **Cloud Deployment** (AWS / Heroku / Docker) for ML & web apps  
-
----
-
-###  Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,26 +66,28 @@
 
 ---
 
-###  Featured Projects
+## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Aatifraza123/ML-Predictor">
-    <img src="https://img.shields.io/badge/ML_Predictor-Python-blue?style=for-the-badge&logo=python" />
-  </a>
-  <a href="https://github.com/Aatifraza123/ChatMate-AI">
-    <img src="https://img.shields.io/badge/ChatMate_AI-React-green?style=for-the-badge&logo=react" />
-  </a>
-  <a href="https://github.com/Aatifraza123/Portfolio-Website">
-    <img src="https://img.shields.io/badge/Portfolio_Website-HTML5-orange?style=for-the-badge&logo=html5" />
-  </a>
-  <a href="https://github.com/Aatifraza123/TaskFlow">
-    <img src="https://img.shields.io/badge/TaskFlow-Node.js-yellow?style=for-the-badge&logo=node.js" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Aatifraza123/ML-Predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aatifraza123&repo=ML-Predictor&theme=tokyonight" />
+</a>
+<a href="https://github.com/Aatifraza123/ChatMate-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aatifraza123&repo=ChatMate-AI&theme=tokyonight" />
+</a>
+<a href="https://github.com/Aatifraza123/TaskFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aatifraza123&repo=TaskFlow&theme=tokyonight" />
+</a>
+<a href="https://github.com/Aatifraza123/Portfolio-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aatifraza123&repo=Portfolio-Website&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
 
-###  Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Completed_Projects-4-brightgreen?style=for-the-badge" />
@@ -91,7 +98,24 @@
 
 ---
 
-###  Connect With Me
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aatifraza123&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatifraza123&layout=compact&theme=tokyonight&langs_count=6" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatifraza123&theme=tokyonight" height="200" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatifraza123&theme=tokyo-night&area=true" height="300" />
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aatif-raza-8ab2aa241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -103,39 +127,10 @@
 
 ---
 
-###  GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aatifraza123&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatifraza123&layout=compact&theme=tokyonight&langs_count=6" height="160" />
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+### ✨ Keep Learning · Keep Building · Keep Evolving ✨
+
 </div>
-
----
-
-###  Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatifraza123&theme=tokyonight" height="200" />
-</p>
-
----
-
-###  Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatifraza123&theme=tokyo-night&area=true" height="300" />
-</p>
-
----
-
-###  Quote That Keeps Me Going
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-<h3 align="center">✨ Keep Learning | Keep Building | Keep Evolving ✨</h3>
-
-
-
-
